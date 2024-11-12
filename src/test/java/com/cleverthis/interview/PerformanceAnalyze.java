@@ -10,7 +10,7 @@ public class PerformanceAnalyze {
         new Solution().solve(padlock);
     }
 
-    private static final int TOTAL_RUN = 500;
+    private static final int TOTAL_RUN = 1;
     private static final int NUMPAD_SIZE = 9;
 
     static {
