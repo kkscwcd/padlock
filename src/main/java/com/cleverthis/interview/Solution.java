@@ -8,6 +8,7 @@ import com.cleverthis.interview.padlock.PadlockImpl;
  * This class is not required, so you can replace with your own architecture.
  */
 public class Solution {
+
     /**
      * Entry point for solving the padlock. Generates all possible combinations
      * of passcodes and tries each one.
